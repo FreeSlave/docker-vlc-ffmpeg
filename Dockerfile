@@ -1,4 +1,4 @@
-FROM debian:jessue
+FROM debian:jessie
 
 # install dependencies
 RUN apt-get update && \
